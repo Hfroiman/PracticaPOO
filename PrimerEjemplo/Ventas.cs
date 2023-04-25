@@ -16,7 +16,5 @@ namespace PrimerEjemplo
 
         public int Cte { get; set; }
 
-        //Cambio para subir a git
-
     }
 }
